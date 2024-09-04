@@ -1,8 +1,8 @@
 <div align="center">
   <p>
     <a align="center" href="https://ultralytics.com/yolov8" target="_blank">
-      <img width="100%" height= src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png"></a>
   </p>
+      
   <p>
     <a align="center" href="https://ultralytics.com/yolov8" target="_blank">
       <img width="100%" src="https://media.roboflow.com/open-source/supervision/rf-supervision-banner.png?updatedAt=1678995927529"></a>
@@ -15,6 +15,10 @@
   
   
 In this project, I demonstrate how to count the number of people entering and exiting a designated area using cutting-edge object detection models, YOLOv8 and YOLOv10, combined with the powerful capabilities of Roboflow Supervision. Whether you're working on security systems, retail analytics, or just curious about advanced computer vision techniques, this tutorial covers everything you need to know. [ Ultralytics YOLOv8 / YOLOv10 ](https://ultralytics.com/license) & [Roboflow Supervision](https://supervision.roboflow.com/latest/).
+
+## <div align="center">Watch the video</div>
+[![Watch the video](https://img.youtube.com/vi/cJAiuTkZmmE/0.jpg)](https://www.youtube.com/watch?v=cJAiuTkZmmE)
+
 
 ## <div align="center">Contact me</div>
 
